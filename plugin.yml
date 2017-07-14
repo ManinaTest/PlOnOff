@@ -1,0 +1,11 @@
+name: PlOnOff
+main: me.ManinaCrafter.PlOnOff.PlOnOff
+version: 1.00
+author: ManinaCrafter
+commands:
+    plonoff:
+        description: Lists Plugins
+    plon:
+        description: Enables Plugins
+    ploff:
+        description: Disables Plugins
